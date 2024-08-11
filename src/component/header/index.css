@@ -1,0 +1,12 @@
+.header {
+    padding: 24px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 30px 0px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+svg {
+    margin: 0 auto;
+}
